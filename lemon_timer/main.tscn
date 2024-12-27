@@ -16,6 +16,8 @@ layout_mode = 1
 
 [node name="Lemon" parent="." instance=ExtResource("2_0w6fj")]
 layout_mode = 1
+lemon_length = 1380
+break_length = 420
 
 [editable path="Background 1"]
 [editable path="Lemon"]
